@@ -49,14 +49,67 @@ create a new variable for outliers?
 thesis statement is not enough. Not specifying the relationship
 
 
-
 Title of presentation: games
 
 What were aspects of the presentation that you liked:
+It's interesting to see how different prediction methods performed
 
 What were aspects of the presentations for which you had concerns or questions:
 
 
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked:
+model selection is great
+clustering results are revealing
+thesis statement is clear
+
+What were aspects of the presentations for which you had concerns or questions:
+I'd use voting preferences to predict H1B 
+
+
+Title of presentation: traffic 
+
+What were aspects of the presentation that you liked:
+data exploration of each key variable
+great that you weighted death by county population
+
+What were aspects of the presentations for which you had concerns or questions:
+Maybe not FBI, but state or local patrol police? 
+generate plots for each year to explore change in death over the years
+Great to see that you explored the relationship of the variables first
+thesis is very well stated
+why log(y+0.01) as the outcome var
+could provide conclusions to your thesis statements
+why you used CV.GLMNET
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked:
+
+What were aspects of the presentations for which you had concerns or questions:
+rhyme is a bit confusing
+types of music might be worth exploring
+validate the features that you created
+
+
+Title of presentation: NBA
+What were aspects of the presentation that you liked:
+beautiful and useful heat map in showing movement
+
+What were aspects of the presentations for which you had concerns or questions:
+problem with only analyzing the last quarter, why not all four quarters
+
+
+
+Title of presentation:Terrorism
+What were aspects of the presentation that you liked:
+Dynamic visualization.
+What were aspects of the presentations for which you had concerns or questions:
+Outliers might not be outliers but valuable cases.
 
 
 
